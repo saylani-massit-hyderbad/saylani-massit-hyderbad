@@ -3,7 +3,7 @@
 ##### CLASS 5
 
 
-[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][youtube1]
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="100" height="100"/>][youtube1]
 
 
 
